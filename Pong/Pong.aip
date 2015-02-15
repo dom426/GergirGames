@@ -1,0 +1,155 @@
+﻿[Setup]
+Version=6.0
+Edition=1
+GUID={00400265-CDDA-5BCE-5282-DEAE6A418B27}
+AppName=Pong
+AppVersion=1.0.0.0
+CompanyName=Gergir Games
+WebSite=
+SupportLink=
+SetupFile=C:\Users\Dominick\Documents\Setup-Pong.exe
+WizardBitmap=E:\Program Files (x86)\Actual Installer\Bitmaps\Wizard\00.bmp
+HeaderBitmap=E:\Program Files (x86)\Actual Installer\Bitmaps\Header\00.bmp
+CustomIcon=0
+CustomIconFile=
+Windows XP=1
+Windows Vista=1
+Windows 7=1
+Windows 8=1
+Windows 8.1=1
+Windows Server 2003=0
+Windows Server 2008=0
+Windows Server 2008 R2=0
+Windows Server 2012=0
+Windows Server 2012 R2=0
+x64=0
+Admin=1
+Internet=0
+CloseApp=0
+CloseAppFile=iexplore.exe
+CloseAppText=Internet Explorer
+dotNET=0
+dotNETVersion=0
+LinkDN=http://www.microsoft.com/en-us/download/details.aspx?id=17113
+IE=0
+IEVersion=0
+LinkIE=http://www.microsoft.com/en-us/download/internet-explorer-10-details.aspx
+AR=0
+ARVersion=0
+LinkAR=http://get.adobe.com/reader/
+Java=0
+JavaVersion=0
+LinkJR=http://www.java.com/en/download/manual.jsp
+SQL=0
+SQLVersion=0
+LinkSQL=http://www.microsoft.com/en-us/download/details.aspx?id=5783
+SQLE=0
+SQLEVersion=0
+SQLExpressVersion=2005
+LinkSQLE=http://www.microsoft.com/en-us/download/details.aspx?id=30438
+InstallMode=0
+InstallLevel=0
+PromptUninstall=1
+PromptSilentUninstall=0
+CheckVersions=0
+CheckMinVer=1.0
+CheckMaxVer=
+InstallationPath=<ProgramFiles>\<AppName>
+MainExecutable=<InstallDir>\Pong.exe
+Uninstall=1
+SilentUninstall=0
+ShowAddRemove=1
+UninstallForce=0
+UninstallRestart=0
+VisitUninstallPage=0
+UninstallURL=http://www.company.com/uninstall.html
+Updater=0
+UpdateURL=http://www.company.com/update.txt
+CheckUpdateBefore=0
+AutoCheckUpdate=0
+UpdateDay=1
+AutoSilentUpdate=0
+SilentInstall=0
+ShowPublisher=0
+DialogWelcome=1
+DialogLicense=0
+DialogReadme=0
+DialogUserInfo=0
+DialogDestinationFolder=1
+DialogAdditionalTasks=0
+DialogReady=1
+DialogFinish=1
+DefaultLanguage=English
+AutoDetectLanguage=0
+AcceptAgreement=0
+InfoUserName=0
+InfoUserNameReq=0
+InfoCompany=0
+InfoCompanyReq=0
+InfoCustom=0
+InfoCustomReq=0
+InfoCustomName=
+InfoSerial=0
+InfoSerialReq=0
+SerialsCount=0
+RestartComputer=0
+LaunchFile=1
+LaunchFileName=<InstallDir>\Pong.exe
+LaunchFileChecked=1
+ViewReadme=0
+ViewReadmeFile=
+ViewReadmeChecked=0
+CustomAction=0
+CustomActionName=Visit Web Site
+CustomActionCommand=<WebSite>
+CustomActionChecked=0
+ProgramGroup=<AppName>
+TotalFiles=28
+FolderSize=0
+
+[Languages]
+English=
+
+[Files]
+0=<InstallDir>\Pong.exe?E:\Code\Test Projects\Pong\Builds\Pong.exe?1?-1
+1=<InstallDir>\Pong_Data\mainData?E:\Code\Test Projects\Pong\Builds\Pong_Data\mainData?1?-1
+2=<InstallDir>\Pong_Data\Managed\Assembly-UnityScript.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\Assembly-UnityScript.dll?1?-1
+3=<InstallDir>\Pong_Data\Managed\Boo.Lang.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\Boo.Lang.dll?1?-1
+4=<InstallDir>\Pong_Data\Managed\Mono.Security.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\Mono.Security.dll?1?-1
+5=<InstallDir>\Pong_Data\Managed\mscorlib.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\mscorlib.dll?1?-1
+6=<InstallDir>\Pong_Data\Managed\System.Core.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\System.Core.dll?1?-1
+7=<InstallDir>\Pong_Data\Managed\System.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\System.dll?1?-1
+8=<InstallDir>\Pong_Data\Managed\UnityEngine.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\UnityEngine.dll?1?-1
+9=<InstallDir>\Pong_Data\Managed\UnityEngine.UI.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Managed\UnityEngine.UI.dll?1?-1
+10=<InstallDir>\Pong_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx?1?-1
+11=<InstallDir>\Pong_Data\Mono\etc\mono\1.0\machine.config?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\1.0\machine.config?1?-1
+12=<InstallDir>\Pong_Data\Mono\etc\mono\2.0\Browsers\Compat.browser?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\2.0\Browsers\Compat.browser?1?-1
+13=<InstallDir>\Pong_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx?1?-1
+14=<InstallDir>\Pong_Data\Mono\etc\mono\2.0\machine.config?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\2.0\machine.config?1?-1
+15=<InstallDir>\Pong_Data\Mono\etc\mono\2.0\settings.map?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\2.0\settings.map?1?-1
+16=<InstallDir>\Pong_Data\Mono\etc\mono\2.0\web.config?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\2.0\web.config?1?-1
+17=<InstallDir>\Pong_Data\Mono\etc\mono\browscap.ini?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\browscap.ini?1?-1
+18=<InstallDir>\Pong_Data\Mono\etc\mono\config?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\config?1?-1
+19=<InstallDir>\Pong_Data\Mono\etc\mono\mconfig\config.xml?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\etc\mono\mconfig\config.xml?1?-1
+20=<InstallDir>\Pong_Data\Mono\mono.dll?E:\Code\Test Projects\Pong\Builds\Pong_Data\Mono\mono.dll?1?-1
+21=<InstallDir>\Pong_Data\output_log.txt?E:\Code\Test Projects\Pong\Builds\Pong_Data\output_log.txt?1?-1
+22=<InstallDir>\Pong_Data\PlayerConnectionConfigFile?E:\Code\Test Projects\Pong\Builds\Pong_Data\PlayerConnectionConfigFile?1?-1
+23=<InstallDir>\Pong_Data\Resources\unity default resources?E:\Code\Test Projects\Pong\Builds\Pong_Data\Resources\unity default resources?1?-1
+24=<InstallDir>\Pong_Data\Resources\unity_builtin_extra?E:\Code\Test Projects\Pong\Builds\Pong_Data\Resources\unity_builtin_extra?1?-1
+25=<InstallDir>\Pong_Data\sharedassets0.assets?E:\Code\Test Projects\Pong\Builds\Pong_Data\sharedassets0.assets?1?-1
+26=<InstallDir>\Pong_Data\sharedassets0.assets.resS?E:\Code\Test Projects\Pong\Builds\Pong_Data\sharedassets0.assets.resS?1?-1
+27=<InstallDir>\Uninstall.exe?E:\Program Files (x86)\Actual Installer\Uninstall.exe?1?-1
+
+[License]
+(Default)=
+English=
+
+[Readme]
+(Default)=
+English=
+
+[Shortcuts]
+0=<ProgramGroup>*?<AppName>*?<InstallDir>\Pong.exe*?*?*?<InstallDir>*?*?0*?Normal
+1=<CommonDesktop>*?<AppName>*?<InstallDir>\Pong.exe*?*?*?<InstallDir>*?*?0*?Normal
+2=<ProgramGroup>*?Uninstall <AppName>*?<InstallDir>\Uninstall.exe*?*?*?<InstallDir>*?*?0*?Normal
+
